@@ -2,16 +2,19 @@
 
     background-color:black;
     color:white;
-    font-size:20px;
+    font-size:30px;
     display:flex;
     justify-content:space-around;
-    font-family: Lucida Console;
-    
+    font-family: tangerine;
+}
+a {
+    color: white;
+    text-decoration: none;
 }
 
 .headshot{
     width:20%;
-   
+    border-radius: 50%;
 }
 .mid{
     background-color:white;
@@ -31,7 +34,6 @@
 .row mid {
     font-family: serif;
 }
-.headshot {
-    
-}
+.portfolio {
+    background-image: url("https://shungphotography.files.wordpress.com/2017/06/dsc_3757s.jpg?w=800");
 }
