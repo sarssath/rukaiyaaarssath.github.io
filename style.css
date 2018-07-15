@@ -1,0 +1,37 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    font-family: Lucida Console;
+    
+}
+
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+#pic {
+    height: 1000px;
+    width: 2000px;
+}
+.row mid {
+    font-family: serif;
+}
+.headshot {
+    
+}
+}
