@@ -34,3 +34,52 @@ a {
 .row mid {
     font-family: serif;
 }
+#me {
+    text-align: center;
+    font-family:Georgia;
+    font-size: 30px;
+    
+}
+#mee {
+    height:500px;
+    width: 500px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column1 {
+    text-align: center;
+    font-size: 25px;
+    font-family: Times;
+}
+#color {
+    background-color: #ced8e8;
+}
+.portfolio {
+    background-color: #6e8ab7;
+}
+#port {
+    text-align: center;
+    font-size: 35px;
+}
+#click {
+    height:300px;
+    width: 300px;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#contact {
+    text-align: center;
+    font-size: 35px;
+}
+#contactme {
+     height:300px;
+    width: 600px;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.findme {
+    background-color: #95b7ed;
+}
